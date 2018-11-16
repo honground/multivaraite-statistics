@@ -1,4 +1,4 @@
-# multivaraite-statistics
+# multivariate-statistics
 R implementation of diverse multivariate analysis
 
 ***
