@@ -1,5 +1,0 @@
-R implementation of diverse multivariate analysis.
-
-Each folder contains followings:
-  1) Analysis report in .pdf format. Each report contains questions and corresponding answers.
-  2) R code and data for the analysis: you can reproduce analysis results using these.
