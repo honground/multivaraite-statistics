@@ -5,7 +5,6 @@ R implementation of diverse multivariate analysis
 
 Description
 -----------
-<br>*Codes are provided with example data</br>
 R implementation of diverse multivariate analysis.
 <br>Each folder contains followings: </br>
   <br>1) Analysis report in .pdf format. Each report contains questions and corresponding answers.</br>
